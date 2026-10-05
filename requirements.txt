@@ -1,0 +1,3 @@
+# Alien Invasion Plus 运行依赖
+# 适配 Python 3.8+
+pygame>=2.1.0
