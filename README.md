@@ -60,12 +60,6 @@ Alien-Invasion-Plus/
 └── high_score.txt      # 最高分持久化文件
 ```
 
-## 📌 建议下一步
-
-- [ ] 补充 `requirements.txt`
-- [ ] 在 `docs/screenshots/` 放几张游戏截图，README 顶部配图更吸引人
-- [ ] 写一份完整的键位说明
-
 ## 📄 许可
 
 未指定开源许可（默认保留所有权利）。如需开源，建议选择 MIT License。
